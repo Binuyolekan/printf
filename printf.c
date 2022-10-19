@@ -2,7 +2,7 @@
 
 #undef printf
 
-/*
+/**
  * _printf - Copy of printf function
  *
  * @format: format of text
